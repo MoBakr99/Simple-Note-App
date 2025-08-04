@@ -89,3 +89,6 @@ The app follows a clean structure with these main components:
 
 - Ensure you've run the `build_runner` command
 - Verify all boxes are opened in `main.dart`
+
+## App Preview
+![alt text](simple_note_app/assets/app%20preview/Screenshot_1754335694.png)![alt text](simple_note_app/assets/app%20preview/Screenshot_1754336016.png)![alt text](simple_note_app/assets/app%20preview/Screenshot_1754335738.png)![alt text](simple_note_app/assets/app%20preview/Screenshot_1754335743.png)
